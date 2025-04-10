@@ -46,7 +46,7 @@ public class Employee {
 
 	@Override
 	public String toString() {
-		return "Emplyee [name=" + name + ", email=" + email + ", salary=" + salary + "]";
+		return "Employee [name=" + name + ", email=" + email + ", salary=" + salary + "]";
 	}
 	
 	//método para carregar uma lista de employees a partir de um arquivo csv:
